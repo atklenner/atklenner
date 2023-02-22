@@ -7,15 +7,15 @@
 
 - 🎯 I’m always focusing on **perfecting my CSS skills**
 
-- 🌱 I’m currently learning **PHP and SQL**
+- 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://andrewklenner.netlify.app/](https://andrewklenner.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://andrewklenner.netlify.app/](https://andrewklenner.netlify.app/)
 
 - 💬 Ask me about **Complete Ordered Fields**
 
 - 📫 How to reach me **atklenner@gmail.com**
 
-- ⚡ Fun fact **I am 10000 years old**
+- ⚡ Fun fact **I once threw a birthday party for a toy stuffed dog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
