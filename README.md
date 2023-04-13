@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Andrew</h1>
 <h3 align="center">I'm a Sacramento based Software Engineer building full-stack web applications.</h3>
 
-- 🔭 I’m currently working on [a custom homepage](https://github.com/atklenner/homepage)
+- 🔭 I’m currently working on [an online multiplayer game](https://github.com/atklenner/lets-play-a-game)
 
 - ⚗️ I like experimenting with [p5 sketches](https://github.com/atklenner/sketches)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 My portfolio is available at [https://andrewklenner.netlify.app/](https://andrewklenner.netlify.app/)
 
-- 💬 Ask me about **Complete Ordered Fields**
+- 💬 Ask me about **the math textbook I'm currently reading**
 
 - 📫 How to reach me **atklenner@gmail.com**
 
